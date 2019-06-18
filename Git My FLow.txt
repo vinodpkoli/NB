@@ -1,0 +1,29 @@
+Description	Command
+UserName	git config -- user.name  "vinodpkoli"
+Password	git config-- user.mail "vinodpkoli@gmail.com"
+	git config -- list
+Folder initialized as Local Repositry	git init
+	git
+	git status
+Stage	git add filename.ext
+	git add.
+
+Track	git commit -m "message "
+
+Untracked	git reset head filename.ext
+	
+check changes	git diff file.ext
+Discard changes	git checkout file.ext
+	
+Remote	
+checking remote repositry	git remote -v
+	git remote add origin " url of remote repos"
+	git push origin master
+git push origin master --force
+Git log	git log
+Git status	git status
+	
+CLONE	git clone "url of clone Repor"
+pull to saw an pull changes from B to A again	git pull origin master
+	
+	
